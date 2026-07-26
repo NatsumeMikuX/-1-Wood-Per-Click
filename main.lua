@@ -1,5 +1,5 @@
 --[[
-    [ NATSUHX 超级加密核心系统 - 核心保护层 ]
+    [ NATSUHX 超级加密核心系统 - 核心保护层 ] 
     ----------------------------------------------------------------------
     版权所有 © 2026 NATSUHX。保留所有权利。
     NATSUHX SECURITY PROTOCOL v1.5.2 - GLOBAL ACCESS DENIED

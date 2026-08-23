@@ -1,4 +1,4 @@
--- NATSU V6
+-- NATSU V6.1
 local ctx = {}; local ckK = "\xC5\x91\xA8\x93"; local ckL = "\xE3Fd+"; local ckJ; local lI; local lL; local l6; local lO; local lv; local mc; local ly; local lU; local lf; local lB; local lE; local l_; local lH; local lo; local lr; local lN; local lT; local lA;
 local le; local lD; local lG; local l1; local ln; local l4; local lq; local lM; local ma; local lw; local lS; local md; local lY; local lj; ckJ = { 2898671481., 7529938, 261674, "&\xCC0\xCF\x91\xB71", "\x0B\x11\xAB\xE9e\x98\x90U\xD5\x07t\xD0\x18\xB2\x1CnjEDgDAS[G^q7YDE*rrS",
 "\xEB.x\x1A\xED\x04\xCF\x1F\xDF\x08,", "H9vJ", "p\xDB\xE8nAi-YiJ", 3074, 0.6, 20688., 4, 50259., 32, "\x92\xB0t\xDB\x9A\xACe\xD2@L\x06\xE0\xCB\xD0-", "BackgroundColor3", "9$kFD.", 1544167007, "\x86\x96\xCD\x1C+\x08", "Gotham", "?\xC3\x8FO\xBCcA?l)*4iGrGB",
